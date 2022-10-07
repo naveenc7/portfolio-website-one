@@ -8,3 +8,8 @@ Things to Work On:-
 2) Write comments as you go instead of adding them afterwards.
 3) Get the basics ((functiionality)) done first and then worry about style. 
 4) Keep practicing and try not to procrastinate. 
+5)Learn what the actual ReadMe Conventions are next time because I am clueless ((sorry about that, it will get better)).
+
+[Solution Screenshot](./assets/images/portfolio-website-one-1.png)
+[Solution Screenshot](./assets/images/portfolio-website-one-2.png)
+[Solution Screenshot](./assets/images/portfolio-website-one-3.png)

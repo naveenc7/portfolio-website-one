@@ -110,6 +110,7 @@ main   {
 
 .aboutme-header{ 
     font-size: 3.0rem;
+    font-weight: bold;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -149,6 +150,7 @@ main   {
 /* This is the header title of the project */ 
 .project-header{ 
     font-size: 3.0rem;
+    font-weight: bold;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -237,6 +239,7 @@ main   {
 
 .contact-header{ 
     font-size: 2.5rem;
+    font-weight: bold;
     display: flex;
     align-items: center;
     justify-content: center;
