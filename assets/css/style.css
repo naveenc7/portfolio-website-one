@@ -162,10 +162,11 @@ main   {
     flex-flow: wrap;
     background-color: antiquewhite;
 }
-
+/* Main section to be changed */
+/*MAIN PROJECT NEEDS TO BE BIGGER */
 .film-portfolio{
-    width: 600px;
-    height: 600px;
+    width: 1300px;
+    height: 800px;
     position: relative;
     box-shadow: -15px 7px 30px rgba(124,181,221,255);
     border-radius: 10px;
@@ -175,6 +176,7 @@ main   {
     background-position: center;
 }
 
+/* Follow a similar pattern for Project #2 */ 
 .horiseon-refractor{
     width: 600px;
     height: 600px;
@@ -187,6 +189,7 @@ main   {
     background-position: center;
 }
 
+/* Follow a similar pattern for Project #2 */ 
 .shuttlehub-welcome{
     width: 600px;
     height: 600px;
@@ -222,7 +225,7 @@ main   {
 }
 
 
-/* Contact Me Section 8 */
+/* Contact Me Section; SIMILAR FORMAT YET AGAINN */ 
 .contact-container {
     margin: 0%;
     width:  100%;
@@ -247,7 +250,7 @@ main   {
     font-size: 1.5rem;
 }
 
-/*  MEDIA QUERIES */
+/*  MEDIA QUERIES for smartphones */
 
 @media (max-width: 640px) {
     .container {
